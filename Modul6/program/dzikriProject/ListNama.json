@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "name":"Naufal",
+        "address":"Jalan Karet"
+    },  
+    {
+        "id":"2",
+        "name":"Nabila",
+        "address":"Jalan Sepakat"
+    },
+    {
+        "id":"3",
+        "name":"Salsabila",
+        "address":"Jalan Soekarno"
+    },
+    
+    {
+        "id":"4",
+        "name":"Donny",
+        "address":"Jalan Lumba-lumba"
+    },  
+    {
+        "id":"5",
+        "name":"Dito",
+        "address":"Jalan Tambun Bungai"
+    },  
+    {
+        "id":"6",
+        "name":"Yehezkiel",
+        "address":"Jalan Cut Nya Dien"
+    },
+    {
+        "id":"7",
+        "name":"Ahmadillah",
+        "address":"Jalan Ahmad Yani"
+    } 
+]
